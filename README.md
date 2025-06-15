@@ -1,5 +1,18 @@
 ![image](https://github.com/user-attachments/assets/b8f83696-0a7c-48eb-bd8a-80378e8ffd02)Blinkit Dashboard (Power BI) 🛒
+🚀 Blinkit Dashboard (Power BI) 🛒
+
 I'm excited to share my latest data analytics project: an interactive Power BI dashboard built to analyze Blinkit's performance data!
+
+ 📊 Leveraged Power BI to visualize key metrics like daily orders, category-wise revenue, customer trends, and delivery performance.
+
+ 📈 Used advanced DAX functions such as CALCULATE, FILTER, DATEADD, and RANKX to create dynamic KPIs and YoY comparisons.
+
+ 🎯 Insights revealed peak sales during weekends, with beverages and snacks being top contributors.
+
+ 🧠 Interactive visuals like line charts, stacked columns, slicers, and heatmaps helped uncover deep business trends.
+
+ 🔗 Excited to share how data storytelling can drive better decisions at scale! 
+
 🔍 What it does:
  This dashboard helps uncover insights from key business metrics such as:
 📈 Sales trends & revenue patterns
@@ -11,5 +24,4 @@ I'm excited to share my latest data analytics project: an interactive Power BI d
 Power BI
 DAX (Data Analysis Expressions)
 Excel/CSV (Data Source)
-hashtag#PowerBI hashtag#DataAnalytics hashtag#DataVisualization hashtag#DashboardDesign hashtag#BusinessIntelligence hashtag#DataScience hashtag#Blinkit hashtag#FresherProjects hashtag#OpenToWork hashtag#PortfolioProject hashtag#GitHub hashtag#DAX# POWER-BI
-Dashboard
+
